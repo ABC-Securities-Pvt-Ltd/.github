@@ -19,11 +19,10 @@ To provide reliable, transparent, and efficient brokerage services, empowering o
 - **2054 B.S. (1997)**: Established on 16th Shrawan, marking a significant step in Nepal's financial sector.
 
 ## Contact Us
-- **Website**: [Insert Website URL]
-- **Email**: [Insert Email Address]
-- **Phone**: [Insert Phone Number]
-- **Address**: [Insert Physical Address]
+- **Website**: [https://abc.com.np/]
+- **Email**: [info@abc.com.np]
+- **Phone**: [+977 01-5970117]
+- **Address**: [1st Floor City Express Complex, Kathmandu 44600]
 
-## License
-This repository is for informational purposes. All rights reserved by ABC Securities Private Limited.
+
 
