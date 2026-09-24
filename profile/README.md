@@ -1,15 +1,19 @@
 <div align="center">
 
+<a href="https://abc.com.np">
+  <img src="https://avatars.githubusercontent.com/u/217050523?s=200&v=4" alt="ABC Securities logo" width="100">
+</a>
+
 <h1>ABC Securities Private Limited</h1>
 
 <p>Stockbroker &amp; Depository Participant &nbsp;|&nbsp; Kathmandu, Nepal &nbsp;|&nbsp; Since 1997</p>
 
 <p>
-  <a href="https://abc.com.np">Website</a> &nbsp;&middot;&nbsp;
-  <a href="https://kyc.abc.com.np">Open an Account</a> &nbsp;&middot;&nbsp;
-  <a href="https://abc.com.np/careers">Careers</a> &nbsp;&middot;&nbsp;
-  <a href="https://abc.com.np/blogs">Blog</a> &nbsp;&middot;&nbsp;
-  <a href="https://abc.com.np/contact">Contact</a>
+  <a href="https://kyc.abc.com.np"><img src="https://img.shields.io/badge/Open%20an%20Account-fcb216?style=for-the-badge" alt="Open an Account"></a>
+  <a href="https://abc.com.np"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website"></a>
+  <a href="https://abc.com.np/careers"><img src="https://img.shields.io/badge/Careers-000000?style=for-the-badge" alt="Careers"></a>
+  <a href="https://abc.com.np/blogs"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge" alt="Blog"></a>
+  <a href="https://abc.com.np/contact"><img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge" alt="Contact"></a>
 </p>
 
 </div>
@@ -24,15 +28,33 @@ Today, investors can open their trading, DEMAT and MeroShare accounts with us en
 
 ## Services
 
-| Service | What it covers |
-|---|---|
-| **Trading Account** | Buying and selling shares, bonds and other listed securities through NEPSE Broker No. 17. |
-| **DEMAT Account** | Electronic custody of your securities, including stocks, bonds and mutual fund units. |
-| **MeroShare** | Online access to your holdings, IPO applications and portfolio records. |
-| **Digital Onboarding** | Trading, DEMAT and MeroShare opened together through a single online application. |
+<table>
+  <tr>
+    <td align="center" width="70"><img src="https://abc.com.np/static/why_choose_use/icons/Trading.png" alt="Trading" width="36"></td>
+    <td><strong>Trading Account</strong><br>Buying and selling shares, bonds and other listed securities through NEPSE Broker No. 17.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://abc.com.np/static/why_choose_use/icons/shape.png" alt="DEMAT" width="36"></td>
+    <td><strong>DEMAT Account</strong><br>Electronic custody of your securities, including stocks, bonds and mutual fund units.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://abc.com.np/static/why_choose_use/icons/shape.png" alt="MeroShare" width="36"></td>
+    <td><strong>MeroShare</strong><br>Online access to your holdings, IPO applications and portfolio records.</td>
+  </tr>
+  <tr>
+    <td align="center"><h2>📱</h2></td>
+    <td><strong>Digital Onboarding</strong><br>Trading, DEMAT and MeroShare opened together through a single online application.</td>
+  </tr>
+</table>
+
+<br>
 
 <p align="center">
-  <a href="https://kyc.abc.com.np"><strong>Open your account at kyc.abc.com.np</strong></a>
+  <a href="https://kyc.abc.com.np">
+    <img src="https://img.shields.io/badge/Open%20Your%20Account%20Online%20%E2%86%92-fcb216?style=for-the-badge&labelColor=fcb216" alt="Open Your Account Online" height="42">
+  </a>
+  <br>
+  <sub>Trading, DEMAT and MeroShare in one application at <a href="https://kyc.abc.com.np">kyc.abc.com.np</a></sub>
 </p>
 
 <br>
@@ -57,7 +79,12 @@ Today, investors can open their trading, DEMAT and MeroShare accounts with us en
 | **Phone** | [+977 01-5970117](tel:+977015970117) |
 | **Email** | [info@abc.com.np](mailto:info@abc.com.np) |
 | **Web** | [abc.com.np](https://abc.com.np) |
-| **Social** | [Facebook](https://www.facebook.com/abcsecurities17) &nbsp;&middot;&nbsp; [Instagram](https://www.instagram.com/abcsecurities/) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/company/abc-securities/) |
+
+<p>
+  <a href="https://www.facebook.com/abcsecurities17"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=fcb216" alt="Facebook"></a>
+  <a href="https://www.instagram.com/abcsecurities/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=fcb216" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/company/abc-securities/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=fcb216" alt="LinkedIn"></a>
+</p>
 
 <br>
 
