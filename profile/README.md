@@ -59,18 +59,6 @@ Today, investors can open their trading, DEMAT and MeroShare accounts with us en
 
 <br>
 
-## Licenses
-
-| Authority | Registration |
-|---|---|
-| Nepal Stock Exchange Ltd. (NEPSE) | Broker Membership No. 17 |
-| Securities Board of Nepal (SEBON), Brokerage | Membership No. 21 |
-| Securities Board of Nepal (SEBON), Depository Participant | Membership No. 47 |
-| CDS &amp; Clearing Ltd. (CDSCL) | DP ID 13013200 |
-| NEPSE &amp; CDSCL | Clearing Member |
-
-<br>
-
 ## Contact
 
 | | |
