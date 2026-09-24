@@ -30,19 +30,19 @@ Today, investors can open their trading, DEMAT and MeroShare accounts with us en
 
 <table>
   <tr>
-    <td align="center" width="70"><img src="https://abc.com.np/static/why_choose_use/icons/Trading.png" alt="Trading" width="36"></td>
+    <td align="center" width="60">📈</td>
     <td><strong>Trading Account</strong><br>Buying and selling shares, bonds and other listed securities through NEPSE Broker No. 17.</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://abc.com.np/static/why_choose_use/icons/shape.png" alt="DEMAT" width="36"></td>
+    <td align="center">🏦</td>
     <td><strong>DEMAT Account</strong><br>Electronic custody of your securities, including stocks, bonds and mutual fund units.</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://abc.com.np/static/why_choose_use/icons/shape.png" alt="MeroShare" width="36"></td>
+    <td align="center">🔐</td>
     <td><strong>MeroShare</strong><br>Online access to your holdings, IPO applications and portfolio records.</td>
   </tr>
   <tr>
-    <td align="center"><h2>📱</h2></td>
+    <td align="center">📱</td>
     <td><strong>Digital Onboarding</strong><br>Trading, DEMAT and MeroShare opened together through a single online application.</td>
   </tr>
 </table>
